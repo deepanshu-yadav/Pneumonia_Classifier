@@ -129,3 +129,10 @@ adm/centrifuges/model_training/plc_data/
 
 .adm/centrifuges/model_training/plc_data/*
 .adm/centrifuges/model_training/plc_data/
+
+# Pycharm
+.idea
+
+# Data
+data
+chest_xray
