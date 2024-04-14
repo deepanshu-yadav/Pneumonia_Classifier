@@ -132,3 +132,6 @@ adm/centrifuges/model_training/plc_data/
 
 # Pycharm
 .idea
+
+# Data
+data
